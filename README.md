@@ -1,5 +1,5 @@
-# react-app-template
-This is a basic ReactJS App template that you can use to start your ReactJS project.
+# music-master
+This is a simple ReactJS application that will setch some previews of the songs for a ginven artist using the Spotify API.
 
 ## Getting started
 This command will install the relevant npm modules and will start the app in dev mode.
