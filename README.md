@@ -1,5 +1,5 @@
 # music-master
-This is a simple ReactJS application that will setch some previews of the songs for a ginven artist using the Spotify API.
+A simple React Web Application that will search and display the top 10 tracks with a 30s preview for a chosen artist using the Spotify API.
 
 ![Preview](https://dumpshare.net/images/916893Cattura.PNG)
 
